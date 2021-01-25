@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a system administrator who is passionate in the IT world and technology in general. Helping create technology to elevate our society, and building community.<br/>
-Insert something inspiring --> ![Alt Text](https://gfycat.com/tartadeptgoldenmantledgroundsquirrel)
+Insert something inspiring --> ![Alt Text](<iframe src='https://gfycat.com/ifr/TartAdeptGoldenmantledgroundsquirrel' frameborder='0' scrolling='no' allowfullscreen width='640' height='524'></iframe><p> <a href="https://gfycat.com/tartadeptgoldenmantledgroundsquirrel">via Gfycat</a></p>)
 
 Find me around the web 🌎:<br/>
 💼[LinkedIn](https://www.linkedin.com/in/inderpalr) <br/>
