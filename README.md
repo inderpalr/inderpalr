@@ -17,4 +17,5 @@ I'm a system administrator who is passionate in the IT world and technology in g
 Insert something inspiring --> ![Alt Text]()
 
 Find me around the web 🌎:
-LinkedIn 💼: [LinkedIn](https://www.linkedin.com/in/inderpalr)
+💼[LinkedIn](https://www.linkedin.com/in/inderpalr)
+📧[E-Mail](inderpalr2020@gmail.com)
