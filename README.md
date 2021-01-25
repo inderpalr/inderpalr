@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a system administrator who is passionate in the IT world and technology in general. Helping create technology to elevate our society, and building community.<br/>
-Insert something inspiring --> ![Alt Text](https://gfycat.com/tartadeptgoldenmantledgroundsquirrel)
-
+<!--Insert something inspiring  ![Alt Text](https://gfycat.com/tartadeptgoldenmantledgroundsquirrel)
+-->
 Find me around the web 🌎:<br/>
 💼[LinkedIn](https://www.linkedin.com/in/inderpalr) <br/>
 📧[E-Mail](inderpalr2020@gmail.com)
