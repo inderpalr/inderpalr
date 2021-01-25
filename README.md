@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 -->
 I'm a system administrator who is passionate in the IT world and technology in general. Creating technology to elevate our society, and building community. 
 
-https://media.giphy.com/media/DZYzmHQFU0y0tlb0FH/giphy.gif
+
+
+![Alt Text](https://media.giphy.com/media/DZYzmHQFU0y0tlb0FH/giphy.gif)
