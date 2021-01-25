@@ -18,4 +18,4 @@ I'm a system administrator who is passionate in the IT world and technology in g
 -->
 Find me around the web 🌎:<br/>
 💼[LinkedIn](https://www.linkedin.com/in/inderpalr) <br/>
-📧[E-Mail](inderpalr2020@gmail.com)
+📧E-Mail: inderpalr2020@gmail.com
