@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 I'm a system administrator who is passionate in the IT world and technology in general. Helping create technology to elevate our society, and building community.
 Insert something inspiring --> ![Alt Text]()
 
-Find me around the web 🌎:
+Find me around the web 🌎:<br/>
 💼[LinkedIn](https://www.linkedin.com/in/inderpalr) <br/>
 📧[E-Mail](inderpalr2020@gmail.com)
