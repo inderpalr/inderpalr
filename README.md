@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 I'm a system administrator who is passionate in the IT world and technology in general. Creating technology to elevate our society, and building community. 
 
-<iframe src="https://giphy.com/embed/DZYzmHQFU0y0tlb0FH" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/momentumww-mrm2021-sltv2021-sltconference-DZYzmHQFU0y0tlb0FH">via GIPHY</a></p>
+https://media.giphy.com/media/DZYzmHQFU0y0tlb0FH/giphy.gif
